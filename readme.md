@@ -22,4 +22,11 @@ site.
    
 ### Followup Notes:
 
-- 
+- Please post any issues you experience to 
+  https://github.com/TheLifeProject/bugsnag-for-statamic/issues
+  
+- Feature requests and suggestions are welcome.
+  
+- This software package comes with no warranty either stated or implied.
+  We do our best to ensure it functions well, but ultimately you use it 
+  at your own risk.
